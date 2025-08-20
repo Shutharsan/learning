@@ -1,0 +1,1 @@
+Created file in Git Hub and tried to seek in local git 
