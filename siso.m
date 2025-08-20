@@ -71,7 +71,7 @@ R2 = 1 - sum((actual - Ypred').^2) / sum((actual - mean(actual)).^2);
 fprintf('MSE: %.4f\n', mse_error);
 fprintf('RMSE: %.4f\n', rmse_error);
 fprintf('MAE: %.4f\n', mae_error);
-fprintf('R²: %.4f\n', R2);
+fprintf('RÂ²: %.4f\n', R2);
 
 %% Normalized Comparison
 t = targetTest;
